@@ -1,0 +1,500 @@
+2,macarrao com frango e molho de tomate,alho,sal,pimenta-do-reino,salvia,frango,macarrao,molho de tomate,queijo
+2,canelone de frango,azeite,cebola,alho,frango,sal,pimenta-do-reino,passata de tomate,creme de leite,milho em lata,manjericao,leite,manteiga,farinha,noz-moscada,queijo mussarela,massa de lasanha,queijo
+2,beef wellington,carne,sal,pimenta-do-reino,azeite,alho,cogumelo,mostarda,creme de leite,massa folhada,presunto de parma,ovo
+2,bife a milanesa,carne,ovo,farinha de rosca,farinha,alho,sal,pimenta-do-reino
+3,arroz a piamontese,manteiga,manjericao,champignon,arroz,creme de leite,queijo,noz-moscada
+2,rocambole de frango,frango,farinha de pão,ovo,salsinha,espinafre,cenoura,bacon,queijo
+2,file ao molho madeira,louro,tomilho,salsinha,azeite,cenoura,cebola,alho-poró,salsão,tomate,carne,alho,vinho,agua,manteiga,farinha,creme de leite,sal,pimenta-do-reino,cogumelo
+4,brownie de chocolate com leite condensado,açúcar,açúcar,ovo,manteiga,farinha,cacau em pó,chocolate,leite condensado,gotas de chocolate
+4,mousse de chocolate,creme de leite,ovo,açúcar,chocolate
+2,torta a portuguesa,massa folhada,ovo,queijo,presunto,tomate-cereja,pimentão,cebola
+4,tortinha de nutella,nutella,farinha,manteiga,açúcar,agua,fermento,bicarbonato de sodio,amido de milho,sal,açúcar,açúcar,ovo,essencia de baunilha,gotas de chocolate
+4,mousse de morango com creme,morango,agua,gelatina,clara,açúcar,leite condensado,leite,ovo
+4,torta ferrero rocher,flocos de milho,manteiga,cacau em pó,avelã,cream cheese,creme de leite,açúcar,essencia de baunilha,chocolate
+4,sonho de padaria,leite,fermento,farinha,açúcar,sal,ovo,manteiga,essencia de baunilha,açúcar,doce de leite
+1,pastel napolitano,farinha,sal,ovo,oleo,cachaça,agua,queijo,tomate-cereja,orégano
+4,bolinho de chuva com calda de brigadeiro,leite condensado,cacau em pó,manteiga,creme de leite,ovo,oleo,açúcar,leite,farinha,raspas de limao,fermento,açúcar,canela
+2,coq au vin,coxas de frango,sal,cenoura,cebola,salsão,alho,conhaque,vinho,bacon,farinha,cogumelo paris,tomilho
+2,empadao de carne,farinha,manteiga,agua,azeite,cebola,alho,carne,sal,pimenta-do-reino,azeitona,molho de tomate,salsinha,ovo
+2,arroz de carreteiro,banha de porco,cebola,alho,louro,charque,sal,arroz,caldo de legumes,ovo,salsinha
+4,pudim brulee,fava de baunilha,leite,leite condensado,ovo,açúcar
+4,torta de limao com chocolate,farinha,açúcar,manteiga,ovo,chocolate,creme de leite,leite condensado,creme de leite,limao
+1,pão com ovo e parmesao,tomate,azeitona,azeite,leite,ovo,queijo,manteiga,manjericao,sal,pimenta-do-reino
+1,omelete de queijo de cabra,ovo,leite,hortela,cebolinha,manjericao,manteiga,queijo,sal,pimenta-do-reino
+1,ovo quentes com mostarda,manteiga,ovo,pão,pimenta-do-reino,mostarda,agriao
+1,muffin de queijo e tomate,azeite,farinha,sal,farinha de milho,queijo,tomate seco,manjericao,ovo,manteiga
+1,ovo mexidos com pesto,ovo,creme de leite,pão,pesto,sal,pimenta-do-reino
+1,batata rosti com ovo,batata,cebola,alecrim,azeite,ovo,sal,pimenta-do-reino
+1,cogumelos na torrada,manteiga,azeite,cogumelo,alho,tomilho,limao,salsinha,pão,queijo,sal,pimenta-do-reino
+4,panquecas com calda de mirtilo,manteiga,farinha,bicarbonato de sodio,açúcar,ovo,iogirte natural,creme de leite,mirtilos,mel,suco de limao
+1,ricota com frutas vemelhas,framboesas,queijo,frutas vermelhas,mel,semente de abóbora,canela
+1,croissants citricos,laranja,iogurte natural,grapefruit,canela,açúcar,croissant
+4,muffin de chocolate,chocolate,manteiga,ovo,açúcar,farinha,cacau em pó,chocolate
+1,queijo de coalhocom roma,queijo,mel,roma,azeite,salsinha,suco de limao,pimenta vermelha,alho,calda de roma,sal,pimenta-do-reino
+1,fritadas de milho,milho em lata,farinha,fermento,ovo,molho shoyo,suco de limao,raspas de limao,coentro,oleo de milho,tomate,pimenta-malagueta,alho,açúcar,vinagre,sal
+2,nhoque com manteiga de salvia,batata,ovo,sal,azeite,farinha,manteiga,salvia,queijo
+1,panini de queijo e batata doce,batata doce,azeite,oleo de milho,salvia,pão,pate de azeitona,queijo,sal,pimenta-do-reino
+1,bruschetta de ricota e tomate,tomate-cereja,azeite,pão,alho,queijo,sal,pimenta-do-reino
+1,crostinis com pesto de ricota,pão,azeite,ervilha,alho,limao-siciliano,hortela,queijo,sal,pimenta-do-reino
+3,fritada de queijo de cabra,manteiga,salvia,queijo,creme de leite,ovo,pimenta-do-reino,sal
+1,figos assados com queijo de cabra,figos,queijo,hortela,azeite,sal,pimenta-do-reino,minirucula,suco de limao
+1,tofu com molho apimentado,oleo de milho,tofu,farinha de milho,sal,anis,cravo,canela,vinagre,agua,açúcar,molho shoyo,pimenta vermelha,azeite
+1,pasta de berinjela,berinjela,azeite,cominho,coalhada,alho,coentro,suco de limao,sal,pimenta-do-reino
+1,falafel com pão sirio,grão de bico,cebola,alho,salsinha,coentro,fermento,oleo de milho,pão,tomate,coalhada
+3,abóbora com pesto de nozes,abóbora,azeite,sal,pimenta-do-reino,nozes,cebolinha,alho,rucula
+1,won ton de cogumelos,oleo de milho,alho,gengibre,cogumelo,molho shoyo,massa para won ton,pimenta seca,caldo de legumes,vinagre,açúcar
+1,hommus de alecrim com ervilha,azeite,cebola,alho,alecrim,limao,ervilha,sal,pimenta-do-reino
+3,tortinha de gorgonzola,manteiga,cebola,alho,tomilho,nozes,massa folhada,farinha,queijo,sal,pimenta-do-reino
+2,curry de ervilha,oleo de girassol,curry,abóbora,caldo de legumes,coco,coentro,ervilha,molho shoyo,limao,pimenta vermelha
+2,cuscuz com legumes grelhados,berinjela,abobrinha,pimentão,azeite,cuscuz marroquino,caldo de legumes,manteiga,horleta,coentro,salsinha,limao,sal,pimenta-do-reino
+3,pimentoes assados,pimentão,alho,tomilho,tomate,azeite,vinagre,sal,pimenta-do-reino
+2,risoto com brie,caldo de legumes,manteiga,cebola,alho,arroz,vinho,ervilha,hortela,queijo,sal,pimenta-do-reino
+2,espaguete com favas,espaguete,favas,azeite,alho,pimenta calabresa,suco de limao,manjericao,sal,pimenta-do-reino,queijo
+4,barrinhas de aveia,aveia,manteiga,mel
+4,crepes integrais com frutas vermelhas,farinha integral,leite,ovo,manteiga,framboesa,mirtilo,morango,açúcar
+4,torta com sementes de papoula,massa folhada,leite,ovo,açúcar,canela,maisena,manteiga,sementes de papoula
+2,torta de acelga e ricota,massa folhada,acelga,queijo,creme de leite,ovo,uvas passa,açúcar,essencia de baunilha,amendoa,canela
+4,pão doce com chocolate e framboesas,manteiga,açúcar,ovo,iogurte natural,fermento,esssencia de baunilha,farinha,farinha de centeio integral,cacau em pó,chocolate,framboesas,laranja
+2,berinjela e tomate recheados,arroz,arroz,berinjela,tomate,pimentão,abobrinha,cenoura,cebola,manjerona,azeite,sal,pimenta-do-reino
+2,sopa picante a moda oriental,alho-poró,salsão,alho,pimenta dedo-de-moca,lentillha,ervilha seca,curry,cominho,macarrao espaguete,salsinha,azeite,sal,pimenta-do-reino
+4,pão doce com uvas passa e pinolis,pão,leite,ovo,uva passa,pinolis,manteiga,canela,farinha de rosca,noz-moscada,mel
+4,strudel integral,farinha integral,açúcar,raspas de limao,maca,noz,uva passa,açúcar,canela,farinha de rosca,mel,oleo de milho
+1,torrada de berinjela com pesto,berinjela,azeite,pão,tomate,sal,pimenta-do-reino,manjericao,alho,pinolis,queijo
+2,risoto de beterraba,caldo de legumes,beterraba,azeite,cebola,alho,tomilho,arroz,vinho,queijo,nozes-pecas,rucula,sal,pimenta-do-reino
+2,lasanha de espinafre e champignon,azeite,alho,tomilho,champignon,espinafre,oleo,massa de lasanha,sal,pimenta-do-reino,leite,louro,manteiga,farinha,queijo
+1,omelete de tomate e manjericao,azeite,tomate-cereja,manjericao,ovo,mostarda ,manteiga,queijo,sal,pimenta-do-reino
+2,kebab de legumes com pilaf,alecrim,azeite,abobrinha,pimentão,champignon,tomate-cereja,sal,pimenta-do-reino,arroz,cebola,alho,cardamomo,uva passa,coentro
+2,risoto asiatico,caldo de legumes,molho shoyo,mirin,oleo de girassol,azeite,cebolinha,alho,arroz,raspas de limao,shitake,coentro
+2,fritada de aspargo e tomate,azeite,alho-poró,alho,aspargo,ovo,queijo,tomate-cereja,sal,pimenta-do-reino
+2,caril de grao de bico e castanha-de-caju,oleo de milho,cebola,alho,gengibre,cominho,curcuma,canela,tomate,agua,batata,grão de bico,champignon,castanha-de-caju,coentro,iogurte natural,sal,pimenta-do-reino
+2,torta de abóbora e cebola,manteiga,cebola,alho,salvia,abóbora,azeite,massa folhada,farinha,queijo,ovo,sal,pimenta-do-reino
+2,sopa de lentilha,azeite,cebola,alho,cenoura,batata,curry,caldo de legumes,coentro,sal,pimenta-do-reino,raspas de limao,suco de limao
+4,pudim cookie de chocolate,leite condensado,leite,ovo,chocolate em po,essencia de baunilha,creme de leite de caixinha,biscoito,manteiga
+4,pudim de cupuacu,leite condensado,ovo,amido de milho,polpa de cupuacu,açúcar
+4,pudim de padaria,farinha,leite,açúcar,ovo,queijo,coco
+4,pudim de mandioca,mandioca,açúcar,ovo,manteiga,farinha,fermento,queijo
+4,pudim de laranja,leite condensado,ovo,laranja,açúcar
+4,pudim de limao,leite condensado,suco de limao,ovo,leite,raspas de limao,açúcar
+4,quindao,ovo,açúcar,manteiga,coco
+4,pudim de cenoura e ameixa,leite condensado,leite,cenoura,ovo,essencia de baunilha,farinha,ameixa,açúcar
+4,pudim de claras com baba de moca,clara,açúcar,manteiga,agua,ovo,coco
+4,bavaroise de baunilha,leite,creme de leite,ovo,essencia de baunilha,gelatina,morangos,açúcar,suco de limao
+4,pudim italiano,leite,açúcar,farinha,queijo,ovo,manteiga
+4,pudim de cafe e chocolate,leite,açúcar,café,manteiga,farinha,ovo,chocolate,creme de leite
+4,mousse de maracuja,suco de maracuja,leite condensado,creme de leite,gelatina,polpa de maracuja,açúcar,agua
+4,mousse de laranja,laranja,açúcar,gelatina,agua,creme de leite
+4,mousse de uva,clara,açúcar,gelatina,creme de leite,suco de uva,amido de milho
+4,mousse de limao,leite condensado,suco de limao,creme de leite,clara,raspas de limao
+4,creme de abacaxi e coco,abacaxi em calda,coco,calda de abacaxi,leite condensado,clara,gelatina
+4,creme de abacate,abacate,leite,açúcar,essencia de baunilha
+4,zabaione,ovo,açúcar,vinho
+3,pure de ervilha,ervilha seca,cebola,salsinha,louro,tomilho,caldo de galinha,creme de leite,pimenta-do-reino
+2,bolo de carne com queijo,carne,vinagre,pão,leite,cebola,alho,salsinha,cebolinha,orégano,pimenta-do-reino,bacon,queijo,queijo provolone,ovo
+2,picadinho de file mignon,carne,sal,pimenta-do-reino,vinho,manteiga,salsão,alho,extrato de tomate
+3,banana a milanesa,banana,ovo,leite,sal,pimenta-do-reino,farinha de rosca,oleo
+3,polenta,agua,fuba,sal
+1,salada de abobrinha,abobrinha,vinagre,azeite,sal,pimenta-do-reino,mostarda,ovo
+2,arroz de espinafre,arroz,caldo de carne,cebola,oleo,alho,espinafre,sal
+2,frango com salvia,frango,mel,mostarda,suco de limao,sal,salvia,manteiga
+1,bolinho de batata,batata,sal,ovo,farinha,queijo,noz-moscada,oleo
+3,risoto delicado,manteiga,azeite,alho,cebola,arroz,vinho,caldo de galinha,agua,brócolis
+2,cacarola rapida de frango,frango,sal,pimenta-do-reino,alho,oleo,cebola,tomate,pimentão,molho ingles,açafrão,orégano,caldo de galinha,cogumelo
+2,file de frango recheado,frango,suco de limao,alho,sal,pimenta-do-reino,salvia,manteiga,cebola,raspas de limao,pão,ovo
+3,pure de batata com coco,batata doce,coco,sal
+2,empanado de frango,frango,vinho,noz-moscada,sal,pimenta-do-reino,laranja,queijo,presunto,ovo,farinha de rosca,oleo
+3,frango de festa,frango,azeite,caldo de galinha,agua,cebolinha,alho,cebola,louro,tomilho,salsinha,vinho,sal,pimenta-do-reino
+2,sopa de cogumelos,cogumelo,agua,manteiga,cebola,alho,tomilho,champignon,caldo de legumes,creme de leite,sal,pimenta-do-reino
+2,sopa de feijao,azeite,cebola,alho,coentro,cominho,feijao,tomate,caldo de legumes,queijo,sal,pimenta-do-reino
+2,sopa de abóbora,azeite,cebola,alho,salvia,abóbora,feijao-branco,caldo de legumes,sal,pimenta-do-reino
+2,sopa de rucula,azeite,cebola,alho,tomilho,batata,ervilha,caldo de legumes,rucula,limao,sal,pimenta-do-reino
+2,sopa de inverno,azeite,cebola,alho,alecrim,cenoura,erva-doce,nabo,cevada,cerveja,caldo de legumes,salsinha,sal,pimenta-do-reino
+2,sopa de batata doce com coco,azeite,cebola,alho,gengibre,limao,pimenta malagueta,batata doce,caldo de legumes,coco,sal,pimenta-do-reino
+2,sopa de feijao e macarrao,azeite,cebola,alho,alecrim,tomate,caldo de legumes,feijao,macarrao,sal,pimenta-do-reino
+2,macarrao oriental com champignon,macarrao,caldo de legumes,molho shoyo,mirin,champignon,cebolinha,tofu
+2,tagine de legumes com açafrão,oleo de girassol,cebola,alho,coentro em po,cominho em po,canela,grão de bico,tomate,caldo de legumes,açafrão,berinjela,champignon,figo,sal,pimenta-do-reino
+2,goulash com bolinhos de cebolinha,azeite,cebola,alho,cenoura,salsão,batata,paprica,tomate,caldo de legumes,sal,pimenta-do-reino,farinha,oleo de girassol,agua
+2,cozido de legumes a provencal,azeite,cebola,alho,coentro em po,tomilho,erva-doce,pimentão,tomate,azeitona preta,salsinha,sal,pimenta-do-reino
+2,torta de queijo de cabra e figos,massa folhada,farinha,ovo,pate de azeitona,figo,tomate-cereja,tomilho,queijo
+2,torta de cogumelos,manteiga,cebola,alho,tomilho,cogumelo,iogurte natural,ovo,queijo,sal,pimenta-do-reino,farinha,agua
+2,torta de queijo feta e tomate,massa folhada,farinha,pesto,tomate,queijo,sal,pimenta-do-reino
+1,pão de bicarbonato com sementes,oleo,farinha integral,sementes de girassol,sementes de papoula,bicarbonato de sodio,sal,açúcar,iogurte natural
+1,pão de milho e pimenta,oleo de girassol,farinha,fermento,farinha de milho,sal,ovo,iogurte natural,milho em lata,pimenta vermelha
+1,pão australiano com queijo e alecrim,farinha,sal,fermento,manteiga,queijo,alecrim,leite,agua
+3,berinjela gratinada,tomate em lata,alho,azeite,açúcar,manjericao,berinjela,queijo,sal,pimenta-do-reino
+2,pizza quatro queijos,queijo,farinha,fermento,sal,açúcar,agua,azeite
+3,arroz a jardineira,cebola,oleo,vagem,pimentão,sal,pimenta-do-reino,milho em lata,arroz,queijo
+4,torta chiffon de laranja,cream cracker,açúcar,manteiga,gelatina,ovo,suco de limao,creme de leite,laranja
+4,torta mousse de chocolate,biscoito,açúcar,chocolate em po,manteiga,chocolate,chocolate,creme de leite,clara,rum
+4,pave de coco,biscoito,leite,leite condensado,ovo,amido de milho,creme de leite,essencia de baunilha,geleia de morango,coco
+4,pave de uva,uva italia,biscoito,leite,creme de leite,raspas de chocolate,ovo,leite condensado,amido de milho,chocolate,creme de leite
+4,pave de cafe,ovo,açúcar,cream cheese,queijo,cafe coado,biscoito,amendoa,essencia de baunilha
+4,pave de abacaxi e coco,doce de leite,coco,creme de leite,biscoito,abacaxi em calda,clara,açúcar
+4,delicia de morango,chocolate,ovo,açúcar,morango,creme de leite
+2,salada de frango com legumes,frango,batata,cenoura,sal,pimenta-do-reino,cebola,tomate,azeitona,ovo,azeite,vinagre,salsinha,cebolinha
+2,salada de frango ao vinho com frutas,frango assado,alecrim,manteiga,vinho,alface,noz,uva,melao,kiwi,vinagre,azeite,hortela
+2,croquete de peixe,cebola,manteiga,peixe,coentro,ovo,farinha,leite,sal,pimenta-do-reino,farinha de rosca,oleo de soja
+2,trouxinhas de frango,frango,abobrinha,queijo cottage,cebolinha,sal,pimenta-do-reino,amido de milho,agua,salvia
+3,arroz com brócolis,arroz,brócolis,azeite,alho,sal,pimenta-do-reino,ovo
+1,bolinhos de arroz,arroz,cebola,salsinha,cebolinha,ovo,farinha,fermento,queijo prato,oleo de soja
+2,macarrao ao molho pesto,azeite,manjericao,alho,queijo,noz,sal,pimenta-do-reino,macarrao penne
+2,macarrao a bolonhesa,carne,cebola,tomate,extrato de tomate,alho,salsinha,cominho,sal,pimenta-do-reino,macarrao espaguete
+3,macarrao ao alhoe oleo,alho,azeite,sal,pimenta-do-reino,macarrao espaguete
+2,macarrao a carbonara,bacon,creme de leite,ovo,queijo,sal,pimenta-do-reino,macarrao espaguete
+2,escondidinho de frango apimentado,frango,gengibre,salsinha,cebola,alho,manteiga,batata,leite,sal,pimenta-do-reino,curry
+2,macarrao com almondegas,carne,cebola,alho,salsinha,cominho,sal,pimenta-do-reino,alecrim,pão,leite,oleo,molho de tomate,macarrao espaguete
+2,frango a parmegiana,frango,farinha,ovo,leite,farinha de rosca,sal,pimenta-do-reino,molho de tomate,queijo mussarela,oleo
+2,frango a milanesa,frango,farinha,ovo,leite,farinha de rosca,oleo,sal,pimenta-do-reino
+2,penne aos quatro queijos,queijo,leite,manteiga,farinha,sal,pimenta-do-reino,vinho
+2,salmao ao molho de laranja,salmao,laranja,amido de milho,suco de limao,sal,pimenta-do-reino,manteiga,alecrim
+1,pão de alho,alho,manteiga,salsinha,sal,pão,pimenta-do-reino
+4,brigadeiro,leite condensado,chocolate em po,manteiga
+4,palha italiana,leite condensado,chocolate em po,manteiga,biscoito
+2,estrogonofe de frango,frango,creme de leite,cebola,oleo,extrato de tomate,mostarda,molho ingles,sal,pimenta-do-reino,cogumelo
+2,estrogonofe de carne,carne,creme de leite,cebola,oleo,extrato de tomate,mostarda,molho ingles,sal,pimenta-do-reino,cogumelo
+2,bife acebolado,carne,cebola,alho,manteiga,sal,pimenta-do-reino
+3,pure de batata,batata,leite,sal,pimenta-do-reino
+2,fettuccine fresco com tomate e manjericao,tomate,alho,ovo,manjericao,queijo,farinha,azeite,oleo,sal
+2,fettuccine fresco com manteigae pimenta-do-reino,farinha,ovo,oleo,manteiga,pimenta-do-reino,sal
+2,fettuccine alfredo,farinha,ovo,oleo,manteiga,pimenta-do-reino,creme de leite,queijo,sal
+2,fettuccine com azeitonas e alcaparra,farinha,ovo,oleo,manteiga,pimenta-do-reino,alho,azeitona preta,azeite,sal
+2,fettuccine de pimenta-do-reino ao molho tres queijos,queijo,ovo,creme de leite,oleo,pimeta-do-reino,farinha,sal
+2,fettuccine de pimenta-do-reino ao mmolho de queijo e cebolinha,ovo,pimenta-do-reino,farinha,oleo,sal,cebolinha,creme de leite,queijo
+2,linguine de espinafre ao vongole,espinafre,farinha,ovo,oleo,sal,vongole,cebola,vinho,salsinha,azeite,pimenta-do-reino
+2,linguine ao vongole com molho de tomate,espinafre,farinha,ovo,oleo,sal,tomate,alho,vongole,salsa
+2,tagliatelle de tomate com alcachofra e nozes,farinha,extrato de tomate,ovo,oleo,sal,alcachofra,limao-siciliano,alho,salsinha,nozes,azeite,vinho,pimenta,queijo
+2,tagliatelle de tomate com alcachofra em conserva,farinha,extrato de tomate,ovo,oleo,sal,alcachofra,limao-siciliano,alho,salsinha,nozes,azeite,vinho,pimenta,queijo
+2,lasanha de berinjela ao molho branco,espinafre,farinha,ovo,oleo,sal,manteiga,berinjela,tomate,queijo,leite,noz-moscada,pimenta-do-reino
+2,lasanha de berinjela com linguica calabresa,espinafre,farinha,ovo,oleo,sal,manteiga,berinjela,tomate,leite,noz-moscada,pimenta-do-reino,queijo,linguiça
+2,canelone de vitela e espinafre,manteiga,queijo,farinha,ovo,oleo,sal,espinafre,vitela,toucinho,cebola,azeite,creme de leite,pimenta-do-reino,noz-moscada,alho,extrato de tomate,salsinha,louro,tomilho,açúcar
+2,canelone de frango e mussarela,manteiga,queijo,farinha,ovo,oleo,sal,frango,pimenta-do-reino,bacon,manjericao,tomate,cebola,alho,extrato de tomate,salsina,louro,tomilho,açúcar
+2,salada de ravioli de salsinha,salsinha,farinha,ovo,sal,agua,cebola,alho,vinagre,creme de leite,pimenta-do-reino,oleo
+2,rondelli de espinafre e queijo ao molho de pimentão,farinha,ovo,sal,espinafre,queijo,manteiga,ricota,noz-moscada,pimenta-do-reino,creme de leite,alho,cebolinha,pimentão,tomate,manjericao,azeite
+2,ravioli de avelã ao molho de gorgonzola,avelã,queijo,alho,cream cheese,creme de leite,queijo,sal,pimenta-do-reino,farinha,ovo,manteiga
+2,peixe assado no forno portuguesa,peixe,alho,cebola,azeite,louro,salsinha,vinho,pimentão,tomate,batata
+2,pernil com molho de abacaxi e pimentão,pernil suino,abacaxi,pimentão,vinho,cebola,alho,louro,cravo,canela,pimenta-do-reino,cebola,azeite,farinha,mel,sal
+3,arroz de forno com frango defumado e queijo de coalho,arroz,frango defumado,ovo,cebolinha,queijo,azeite,sal,pimenta-do-reino
+2,salada de macarrao com tomate e hortelã,macarrao parafuso,azeite,alho,hortelã,tomate-cereja,sal,pimenta-do-reino
+4,pastelzinho doce de damasco e requeijão,massa folhada,damasco seco,noz,requeijão,essência de baunilha,leite,açúcar,azeite
+3,vinagrete diferente,tomate-cereja,alho-poró,cebola,azeite,limão,sal,pimenta-do-reino
+2,tainha com vinagrete de feijao,tainha,sal,azeite,feijao-fradinho,tomate,cebola,abóbora,pimenta cambuci,pimenta malagueta,limão,vinagre,gengibre,alho,coentro,bacon,castanha-do-pará,farinha biju,manteiga,agua,polvilho
+4,pave de pacoca,leite condensado,manteiga,chocolate em po,amendoim,creme de leite,biscoito,leite,essencia de baunilha
+4,pave de ameixa com doce de leite,açúcar,agua,ameixa,doce de leite,creme de leite,biscoito,coco
+4,pave de maracuja com biscoito,leite,açúcar,maisena,ovos,leite condensado,suco de maracujá concentrado,creme de leite,biscoito,polpa de maracuja
+4,pave de limao com chocolate,gelatina,leite condensado,suco de limao concentrado,chocolate,creme de leite,biscoito,leite,açúcar
+4,minibolo de laranja com alecrim,laranja,ovo,açúcar,farinha,fermento,oleo,alecrim,açúcar,agua
+4,bolo baeta,leite,manteiga,farinha,açúcar,ovo,coco,leite condensado
+4,bolo de chocolate recheado com leite condensado e abacaxi,ovo,açúcar,chocolate em po,oleo,agua,fermento,farinha,leite condensado,manteiga,abacaxi em calda,chocolate,creme de leite
+4,bolo de iogurte e laranja,ovo,oleo,açúcar,laranja,farinha,amido de milho,fermento,manteiga,açúcar,iogurte natural
+4,bolo cajuzinho,ovo,açúcar,leite,achocolatado em pó,farinha,fermento,amendoim,margarina,leite condensado
+4,bolo gelado de chocolate com morango,ovochocolate em po,açúcar,farinha,fermento,morangos,leite condensado,leite,chocolate,amido de milho,manteiga,creme de leite,gelatina
+4,bolo de cenoura com ovomaltine,farinha,fermento,chocolate granulado,oleo,cenoura,açúcar,ovo,ovomaltine,manteiga,leite
+4,bolo de banana aveia e castanha,banana,ovo,oleo,agua,açúcar,canela,castanha-do-pará,uva-passa,farinha integral,aveia,fermento,farinha,açúcar
+4,bolo de fuba recheado com paçoca,ovo,manteiga,leite,açúcar,fuba,farinha,fermento,coco,doce de leite,creme de leite,paçocas
+4,bolo integral com chia,farinha de chia,farinha integral,farinha,aveia,castanha-do-pará,fermento,canela,leite,mel,ovo,manteiga,açúcar,açúcar
+4,bolo de fuba com coco fofinho,ovo,coco,açúcar,margarina,farinha,fuba,fermento,agua
+4,bolo de fuba sem gluten,extrato de soja integral,fuba,farinha de arroz,açúcar,manteiga,ovo,canela,fermento,leite
+4,bolo de maria-mole,ovo,açúcar,margarina,agua,farinha,fermento,coco,pó para maria-mole,leite condensado
+4,bolo indiano com nozes,ovo,açúcar,farinha de rosca,oleo,canela,cravo em po,noz-moscada,fermento,manteiga,nozes,leite condensado,leite,amido de milho
+4,bolo-pudim casadinho,açúcar,agua,ovo,leite,leite em po,oleo,farinha,fermento,leite condensado,chocolate em po,nutella,maisena
+1,croqueta de presunto,presunto cru,leite,cebola,azeite,manteiga,farinha,ovo,farinha de rosca,oleo
+1,bolovo com pure de macaxeira,ovo,farinha de mandioca,macaxeira,oleo de milho,alho,manteiga,leite,sal,salsinha
+1,croquete de lentilha,lentilha,leite,agua,arroz,azeite,alho,cebola,farinha,ovo,sal,farinha de rosca,oleo,salsinha,cebolinha
+1,damasco com cream cheese e gorgonzola,damasco,cream cheese,queijo,pistache
+1,carolina recheada com camarão,manteiga,agua,sal,farinha,cebola,camarão,leite,salsinha
+1,canape de endivia com camarão e mangaazeite,cebola,camarão,tomate,sal,creme de leite,curry,manga,endívia,hortela
+1,carpaccio de palmito com camarão e vinho do porto,limao,azeite,palmito,camarão,vinho,cebolinha,endro,coentro,sal,pimenta-do-reino
+1,dobradinha empanada com molho tartaro,dobradinha,salsa,alecrim,tomilho,alho,sal,pimenta-do-reino,limoes,fuba,oleo,maionese,picles,pimenta biquinho,salsinha
+2,hamburguer de carne de sol e queijo coalho,carne,queijo,açúcar,rapadura,molho shoyo,cebola,maionese,iogurte,alho,coentro,sal,pimenta-do-reino,batata doce
+2,picanha recheada,picanha,ovo,pimentão presunto,alho,cebola,tomate,cenoura,farinha de rosca,molho ingles,azeite,sal,pimenta-do-reino,caldo de carne,amido de milho
+3,vinagrete tradicional,cebola,tomate,agua,azeite,vinagre,salsinha,cebolinha,sal,pimenta-do-reino
+2,lomo saltado,carne,cebola,tomate,molho shoyo,vinagre,aguardente de uva,aji amarillo,caldo de carne,molho de ostra,sal,pimenta-do-reino,coentro,salsinha,cebolinha,alho
+2,carne de churrasco alemao,carne,sal,pimenta-do-reino,paprica doce,molho ingles,tomilho,oleo de girassol,mostarda,alho,açúcar,pimentão amarelo,pimentão
+2,costela com tomate e figos,costela bovina,sal,pimenta-do-reino,ketchup,mostarda,caldo de legumes,figo,tomate-cereja,tomilho,alecrim,açúcar
+2,lagarto com molho,lagarto,sal,pimenta-do-reino,azeite,bacon,cebola,louro,tomate,extrato de tomate,cenoura,caldo de carne
+2,arroz com soja com agriao e tomate ao forno,tomate,alecrim,alho,pimenta-do-reino,sal,azeite,agriao,arroz,ricota defumada
+2,arroz com castanhas e abóbora,abóbora,tomate-cereja,sal,alho,azeite,castanha-do-pará,castanha-de-caju,avelã,arroz,cebola,manjericao,pimenta-do-reino,vinagre,rucula
+2,arroz arrumadinho,oleo,bacon,cebola,pimenta dedo-de-moca,linguiça,feijao,farinha de mandioca,alho,arroz,carne,tomate,pimenta-do-reino
+2,arroz a grega com papillote de salmao,arroz,sal,salmao,pimenta-do-reino,alho-poró,azeite,vinho,endro,manteiga
+2,almondegas de peru com molho,peito de peru,azeite,alho,tomate pelados,orégano,sal,pimenta-do-reino,cebola,ovo,salsinha,farinha
+2,tiras de peito de peru com legumes,peito de peru,sal,pimenta-do-reino,limao,azeite,alho,cebola,vagens,milho,cenoura,molho shoyo
+2,minestrone suino,lombo suino,azeite,sal,curry,caldo de legumes,cenoura,abóbora,vagem,salsinha
+3,salada crudo,presunto parma,radichio,aspargo,pão,limao,azeite,sal
+3,salada blue,iogurte integral,queijo,pimenta-do-reino,alface,pera,frango,nozes,hortela
+1,canapés de peito de peru e damasco,peito de peru,rucula,pão,tomate-cereja,ricota,leite,salsinha,cebolinha,tomilho,sal,pimenta-do-reino,damascos,agua
+1,sanduba por-do-sol,peito de peru,queijo,mostarda,erva-doce,cenoura,beterraba,rucula,pão,sal,pimenta-do-reino
+1,sanduba sem spoiler,rabanete,cenoura,presunto defumado,cebola,azeitona,uva-passa,salsinha,pão,alface,iogurte natural,mostarda,maionese
+2,file de frango grelhado com molho de laranja e legumes assados,frango,oleo,vinho,laranja,amido de milho,azeite,abobrinha,berinjela,tomate,cebola
+2,frango xadrez,frango,cebola,pimentão,salsão,oleo,amendoim,gengibre picado,amido de milho
+2,frango com molho de manjericao,manjericao,noz,leite,alho,azeite,sal,frango,manteiga,oleo
+2,caril de frango,oleo,manteiga,cebola,peitos de frango,caldo de galinha,curry,farinha,geleia de damasco,raspas de limao,sal,pimenta-do-reino
+2,bacalhau ao forno,bacalhau,azeite,pimenta-do-reino,caviar,abobrinha
+2,sopa fria com tartare de bacalhau,pepino,abacate,caldo de peixe,azeite,vinagre,alho,pimentão,sal,bacalhau,tomate,orégano,pimenta caiena
+2,salada de lentilha com tender,lentilha,amendoa,hortela,tender,azeite,vinagre,açúcar,sal
+1,azeitonas mediterraneas,azeitona,azeite,louro,alecrim,tomilho,manjericao,pimenta dedo moca,pimenta de cheiro
+2,arroz a cantonesa,arroz,sal,ovo,pimenta-do-reino,oleo de gergelim,cebola,ervilhas,peito de peru,molho shoyo,cebolinha
+2,bacalhau da noruega na brasa,bacalhau,azeite,cebola,salsinha,alho
+2,bacalhau a bras,bacalhau,batata,cebola,azeite,ovo,alho,azeitona preta,salsinha,pimenta-do-reino,sal,oleo
+2,poejada de bacalhaubacalhau,agua,ovo,alho,sal,azeite,pimenta-do-reino,uva,hortela
+1,misto quente aperitivo,tortilla,presunto,queijo,farinha,agua
+1,croquete de pinhao,azeite,alho,cebola,carne,molho de tomate,pinhão,farinha,sal,leite,farinha de rosca,oleo
+1,fritada aperitivo,batata,farinha,ovo,oleo,azeite,cebola,tomate,pimentão,sal
+1,empanado de queijo com molho de goiabada,mussarela de bufala,farinha,ovo,farinha de rosca,oleo,goiabada,agua
+2,meia-desfeita de bacalhau,bacalhau,grao de bico,cebola,azeite,ovo,alho,salsinha,agua,pimentão,vinagre,pimenta-do-reino,sal
+2,bacalhau a gomes de sa,bacalhau,batata,cebola,azeitona preta,leite,azeite,ovo,alho,salsinha,pimenta-do-reino,sal
+2,simplesmente bacalhau,bacalhau,azeite,ovo,alho,cebola,azeitona preta,salsinha
+4,Bolo de reis,uva passa,ameixa,damasco,conhaque,azeite,açúcar,ovo,leite condensado,farinha,fermento,noz,açúcar,laranja
+2,Bacalhau a Rashmi Kanji,bacalhau,cebola,manga,vinho,azeite,cardamomo,cravo,coentro,coco,curry,farinha,oleo de amendoim,sal,pimenta-do-reino
+1,salada de grão de bico com presunto,presunto,grão de bico,tomate-cereja,salsinha,azeite,sal,pimenta-do-reino
+3,Arroz com frango ao molho de cogumelos,frango,cebola,cenoura,salsão,pimenta-do-reino,alecrim,sal,arroz,farinha,manteiga,vinho,creme de leite,cogumelo paris,queijo,noz-moscada
+1,Carpaccio de bacalhau,bacalhau,grão de bico,cebola,ovo,pimentão,salsa,azeite,vinagre,pimenta-do-reino
+2,Bacalhau guisado a lisboa antiga,bacalhau,feijao branco,cebola,batata,pão,azeite,coentro,sal,pimenta-do-reino
+2,Lombo limão e mel,lombo suino,limão,cravo,mel,sal,agua,batata,alho,tomilho,pimenta-do-reino
+2,Lombo ao barbecue,lombo suino,manteiga,cebola,tomate,extrato de tomate,açúcar,vinagre,canela,sal,pimenta,agua
+2,porco a role,porco,sal,cenoura,salsão,azeite,molho de tomate,pimenta-do-reino
+1,salada Rustica de Bacalhau,bacalhau,batata,alcaparra,azeitona preta,brócolis,alho,açúcar,azeite,hortela,manjericao,sal,pimenta-do-reino,salsa,tomate-cereja
+2,Filé suíno acebolado,porco,sal,pimenta-do-reino,azeite,alecrim,alho,cebola,açúcar
+1,Porco crocante com molho de mostarda,porco,sal,farinha,ovo,farinha de rosca,azeite,cream cheese,agua,cominho,mostarda
+2,Yakissoba de porco,azeite,porco,cebola,cenoura,couve-flor,brócolis,amido de milho,agua,molho shoyo,açúcar,macarrao,oleo de gergelim,cebolinha
+2,Pork parmegiana,porco,alho,sal,pimenta-do-reino,farinha,ovo,farinha de rosca,oleo,molho de tomate,queijo,orégano
+2,Suino a cavalo,porco,sal,pimenta-do-reino,azeite,ovo,salsinha
+2,Escondidinho suíno,porco,azeite,cebola,sal,agua,milho verde,espinafre,mandioquinha,queijo,alho
+2,porco em crosta,porco,alho,cebola,vinagre,sal,azeite,nozes,castanha-do-pará,castanha-de-caju,salsinha,oleo
+2,Suíno na chapa com vegetais grelhados,manteiga,salsinha,manjericao,pimenta-do-reino,limao,porco,alho,sal,couve-flor,aspargo,cogumelos paris,azeite
+1,Focaccia tradicional,farinha,batata,azeite,sal,açúcar,agua,fermento,alecrim
+1,Caponata,berinjela,pimentão,cebola,alho,uva passa,pimenta calabresa,orégano,azeite,sal
+1,Muffin salgado,ovo,creme de leite,queijo,farinha,fermento,orégano,sal
+2,Legumes recheados com Bacalhau,bacalhau,manteiga,cebola,alho,farinha,leite,cebolinha,requeijão,queijo,farinha de rosca,sal,pimenta-do-reino,pimentão,salsinha,tomate
+2,Escondidinho de Bacalhau,bacalhau,cebola,alho,molho de tomate,salsinha,farinha de rosca,manteiga,coco,leite,macaxeira,queijo,azeite,sal
+2,Roupa-velha de Bacalhau,bacalhau,couve portuguesa,batata,alho,azeite,sal,pimenta-do-reino
+2,Bacalhau da Noruega de Páscoa,bacalhau,batata,cebola,brócolis,alho,ovo,cenoura,azeite,couve flor
+2,Bacalhau da Noruega com todos,bacalhau,couve portuguesa,batata,cenoura,grão de bico,cebola,alho,azeite,vinagre
+2,Bacalhau da Noruega em Crosta,bacalhau,cebola,linguiça,salsinha,alho,azeite
+2,Bacalhau da Noruega com Batatas ao Murro,bacalhau,batata,alho,pimentão,azeite,cebola
+2,Caldeirada de Bacalhau,bacalhau,cebola,batata,alho,tomate,colorau,azeite,cravo,vinho,camarão,pimenta malagueta,coentro,louro,sal,pimenta-do-reino
+1,Bolinho de Bacalhau,bacalhau,batata,ovo,azeite,cebola,alho,salsinha,sal,pimenta-do-reino,oleo
+2,Bacalhau à Zé do Pipo,bacalhau,batata,cebola,leite,azeite,louro,maionese,azeitona preta,pimenta-do-reino,sal
+2,Strogopork,porco,azeite,cebola,sal,pimenta-do-reino,extrato de tomate,conhaque,creme de leite,molho inglês,noz-moscada,mostarda
+2,Picadinho suíno,porco,páprica doce,sal,azeite,tomate,agua,vinho,molho inglês
+2,Peru recheado caprese,peru,manjericao,alho,sal,azeite,cebola,tomate,abobrinha,mussarela de búfula,vinagre
+3,salpicão de peru,peru,batata doce,palmito,maçã,salsão,maionese,creme de leite,azeite,limão,sal,pimenta-do-reino,endro
+2,Frango crispy com batata doce-palha caseira,frango,batata doce,sal,azeite
+1,Wrap de frango crocante,frango,alho,azeite,tomate,wrap,alface,abacate
+2,Frango crocante com vegetais,frango,abobrinha,berinjela,tomate,azeite,pimenta-do-reino,tomilho,molho de tomate
+2,Frango ao mediterraneo,frango,espinafre,macaxeira,pão,tomilho
+1,salada de frango,frango,iogurte,mostarda,alcaparra,alface,cenoura,tomate-cereja,salsão
+1,Brusqueta de pesto com parma,alho,castanha-do-pará,salsinha,azeite,pimenta-do-reino,sal,abobrinha,cenoura,pão,presunto parma
+3,Cuscuz marroquino com frango,cuscuz marroquino,caldo de legumes,frango,abóbora,tomate,ervilha,azeite,salvia,sal
+3,Farofa de linguiça com ervas,bacon,luinguica,manteiga,cebola,alho,cenoura,farinha de mandioca,salsinha,cebolinha,tomilho,uva passa,sal,pimenta-do-reino,castanha-do-pará
+2,Lombo citrico com vegetais rustico,lombo,laranja,limao,alecrim,sal,batata,alho,beterraba
+2,Pernil com chutney de frutas vermelhas,vinho,framboesa,morango,azeite,cebola,alho,sal,porco,açúcar,vinho,agua,pimenta-do-reino
+1,Quiche de parma,presunto parma,creme de leite,queijo,manteiga,ovo,aspargo,cenoura,sal,pimenta-do-reino,noz-moscada,farinha,amendoa
+2,Tender com laranja e mel,tender,laranja,mel,canela,hortela
+1,Shots de feijao branco,feijao branco,linguiça,agua,bacon,cebola,alho,sal,pimenta-do-reino,azeite,tomate,pão,queijo,salsinha
+2,Hamburguer com blend de carnes,linguiça,carne,cebola,tomilho,sal,pimenta-do-reino,queijo,bacon,maionese,wasabi,agriao,limao,pão
+1,Michuí,cebola,pimentão,tomate,frango,sal,pimenta-do-reino
+2,Galinhada,manjericao,hortlã,salsão,alho-poró,alho,alecrim,tomilho,frango,cebola,oleo,tomate,extrato de tomate,agua,quiabo,arroz,coentro,pimenta-do-reino
+2,Risoto del contadino,linguiça,arroz,alho,azeite,vinho,feijao,carne,manteiga,queijo,sal,pimenta-do-reino
+2,Sobrecoxa no capim-limão,frango,oleo de gergelim,alho,capim-limão,gengibre,cenoura,açúcar,molho shoyo,coentro,salsinha,castanha-de-caju
+2,Frango grelhado ao açafrão,orégano,azeite,cuscuz,hortelã,limão,avelã,pimentão,iogurte
+2,Coxa de peru ao barbacue,peru,sal,pimenta-do-reino,milho,manteiga,arroz,tomilho,louro,alho,agua,açúcar,açúcar,mostarda,canela,cebola,extrato de tomate,caldo de carne,cerveja
+2,Roulade de peru,cenoura,peru,cebola,agua,sal,pimenta-do-reino,mostarda,creme de leite,azeite,coentro,alho,canela,conhaque,limão
+2,Confit de peru,peru,azeite,sal,pimenta-do-reino,noz-moscada,alecrim,alho,cebola,oleo,arroz,agua,manteiga,alho-poró,bacon,batata
+2,Yakisoba de peru,peru,macarrao,cebola,azeite,brócolis,couve-flor,mollho shoyo,champignon,cenoura,agua,amido de milho,louro,sal
+1,Torta de peito de peru,peru,abobrinha,ricota,ovo,farinha,aveia,manteiga
+2,Risoto de cevada com peru,peru,cebola,azeite,cevada,caldo de legumes,abóbora,sal,queijo,amendoa,pimenta-do-reino,orégano
+1,salada carpaccio com peito de peru,peru,mostarda,alcaparra,azeite,agua,vinagre,pimenta-do-reino,rucula
+2,Macarrao ao pomodoro com almondegas de peru,peru,pimenta-do-reino,ovo,manteiga,tomate,cebola,alho,cenoura,alho-poró,molho de tomate,salsinha,sal,queijo
+2,Fettucine de peito de peru,peru,azeite,tomate-cereja,brócolis,sal,macarrao,manjericao
+2,Coxinha da asa gratinada,frango,cebola,sal,pimenta-do-reino,mostarda,creme de leite,queijo
+1,Misto quente,presunto,queijo,maionese,pão,manteiga
+2,Escondidinho royale,presunto,azeite,alho,cebola,salsão,macaxeira,queijo,vinho,caldo de carne,tomilho,pimenta-do-reino,requeijão,extrato de tomate,cenoura,leite,manteiga
+1,Pão de batata com requeijão,fermento,açúcar,leite,peru,requeijão,orégano,farinha,batata,sal
+2,Arroz de carreteiro com linguiça,linguiça,cebola,alho,sal,páprica doce,açafrão,agua,arroz,azeite,coentro
+2,Frango com maionese cítrica,frango,cebola,alho,maionese,cebolinha,hortelã,limão,salsinha,sal,pimenta-do-reino,oleo
+2,Peru amazônico,cupuaçu,pimenta-do-reino,canela,anis,açúcar,agua
+4,Arroz doce da vovo,arroz,leite,açúcar,ovo,raspas de limão,canela
+2,Arroz da serra,oleo,banana,bacon,alho,arroz,salsinha,queijo
+2,Risoto della mamma,arroz,agua,sal,azeite,alho,erva doce,linguiça,manteiga,queijo
+2,Arroz de braga,oleo,frango,bacon,linguiça,cebola,paio,tomate,arroz,sal,ervilha,repolho,salsinha
+3,Arroz à moda caipira,arroz,azeite,agua,sal,bacon,cebola,milho
+3,Arroz à brasileira,sal,arroz,cachaça,queijo,azeite,alho,couve
+3,arroz com maracujá,maracujá,azeite,erva-doce,cebola,arroz,sal,pimenta-do-reino,sálvia
+1,Sopa de arroz e castanhas,arroz,castanha do pará,pimenta-do-reino,azeite,palmito,hortelã
+3,Arroz com cenoura e uva passa,oleo,alho,arroz,sal,cenoura,uva passa,salsinha
+3,Arroz de forno com abobrinha e tomate,arroz,azeite,cebola,alho,abobrinha,tomate-cereja,sal,pimenta-do-reino,manjericao,queijo
+3,Arroz com abóbora e amendoas,azeite,arroz,agua,sal,cebola,alho,abóbora,cebolinha,amendoa
+3,Arroz de forno com presunto e queijo,oleo,cebola,arroz,agua,sal,alho,ervilha,presunto,requeijão,queijo,azeite
+2,Arrumadinho de feijao,feijao,agua,louro,manteiga,alho,cebola,farinha de mandioca,sal,tomate,azeite,vinagre,carne
+1,Pizza no pão de forma,salame,queijo,pão,molho de tomate,tomate,manjericao
+3,salada com presunto,presunto,abobrinha,azeite,açúcar,vinagre,pimenta-do-reino,alface,tomate-cereja
+1,salada agridoce com parma,presunto parma,melão,uva,abacaxi,iogurte,pimenta-do-reino,cebolinha,sal
+1,Berinjela recheada com parma,presunto parma,berinjela,queijo,salsinha,cebolinha,manjericao,tomilho,alecrim,orégano
+2,Tender ao molho de abacaxi,tender,cravo,manteiga,açúcar,mostarda,abacaxi,farinha,amora,morango
+3,Legumes no forno com presunto,presunto,cenoura,batata doce,macaxeira,vagem,ovo,noz-moscada,sal,requeijão
+1,Muffin de legumes com salaminho,salame,farinha,leite,ovo,fermento,sal,abobrinha,cenoura
+2,Espaguete cremoso com pimentões,macarrao,pimentão,cebola,sal,pimenta-do-reino,requeijão,azeite
+1,salada de macarrao risoni,macarrao,berinjela,pimentão,salsinha,sálvia,alecrim,manjericao,sal,pimenta-do-reino,tomate-cereja,cenoura,abobrinha,limão,azeite
+2,Risoni com calabresa,macarrao,alho,sálvia,alecrim,tomilho,cebola,caldo de legumes,linguiça,pimenta dedo de moça,queijo,manteiga,sal,pimenta-do-reino
+2,Capellini a moda palermo,macarrao,oleo,cebolinha,noz,vinho,sardinha,sal,pimenta-do-reino,erva doce,azeite,alho,uva passa,açafrão
+2,macarrao alla putanesca,macarrao,alho,alcaparra,azeite,molho de tomate,azeitona preta,pimenta-do-reino,salsinha,anchova
+1,Bolinho de baião de dois,azeite,cebola,alho,bacon,carne,arroz,feijao,ovo,farinha de mandioca,coentro,cebolinha,sal,pimenta-do-reino,oleo,farinha de rosca
+1,Bolinho de lentilha recheado,lentilha,agua,louro,azeite,alho,sal,farinha de mandioca,queijo,ovo,farinha de rosca,oleo
+1,Bolinho de grão de bico com bacalhau,grão de bico,azeite,cebola,alho,bacalhau,sal,leite,farinha,coentro,cebolinha,oleo
+1,Caldinho de feijao,feijao,agua,oleo,alho,cebola,sal,bacon,couve
+1,Caldinho de feijao com bacon,feijao,agua,louro,oleo,bacon,cebola,alho,sal
+2,Dobradinha,oleo,cebola,alho,tomate,carne,agua,feijao,louro,paio,sal,pimenta-do-reino,cebolinha,coentro
+1,Croquetes de feijao com carne seca,azeite,alho,cebola,carne,requeijão,coentro,cebolinha,sal,feijao,farinha de mandioca,polvilho azedo,oleo
+2,Cassoulet,oleo,frango,cebola,alho,cenoura,tomate,sal,pimenta-do-reino,feijao,salsinha,louro,salsão,bacon,luinguiça,porco,caldo de galinha,agua,farinha de rosca
+2,Cozido de feijao branco com carne e abóbora,azeite,carne,alho,cebola,caldo de legumes,sal,abóbora,vagem,feijao,coetro,cebolinha
+2,Cozido de grão de bico,grão de bico,agua,louro,porco,azeite,alho,cebola,tomate,paio,cenoura,pimenta-do-reino,sal,salsinha
+2,Cozido de legumes com feijao branco e alecrim,azeite,alho,vagem,salsão,alho-poró,macaxeira,agua,feijao,alecrim,sal
+2,Ensopado de lentilha com curry e maçã,azeite,mostarda,cebolinha,salsinha,hortelã,maçã,lentilha,curry,sal,pimenta-do-reino
+2,Ensopado de soja costeinha e legumes,oleo,cebola,alho,soja,porco,agua,vagem,cenoura,sal
+1,Hot dog burrito,salsicha,chilli beans,alface,tomate,cream cheese
+1,Hot dog caprese,salsicha,pão,passata,tomate,molho pesto,parmesao,cebola,alho,azeite,sal
+1,Hot dog berlim,salsicha,pão,mostarda,maionese,bacon
+1,Sanduíche com escarola e salame tipo hamburguês,salame,pão,queijo,escarola,noz-moscada
+1,Tartar de peixe crisp com copa crocante,presunto,peixe,cebola,alcaparra,tomate,azeite,limão,salsinha
+1,Ovo cocote com salame tipo italiano tradicional,ovo,leite,pimenta-do-reino,salsa,salame
+1,salada cores,feijao preto,feijao branco,cenoura,salmão,salsão,tomate,azeite,vinagre,mostarda,hortelã,sal
+3,salada de arroz com cogumelos e peras,arroz,agua,alho-poró,azeite,cogumelo,pera,vinagre,amendoa,sal
+1,salada de arroz com molho de iogurte,agua,arroz,iogurte,azeite,curry,peru,sal
+3,salada de arroz com frutas secas,azeite,limão,vinagre,cominho,curry,sal,arroz,agua,castanha-de-caju,damasco,amendoa,cebolinha
+3,salada de fradinho,tomate seco,alho,orégano,vinagre,açúcar,azeite,sal,pimenta-do-reino
+3,salada de grão de bico com cebola carameladas,grão de bico,agua,azeite,cebola,sal,uva
+1,salada de grão de bico pronto e pimentão,grão de bico,bacon,pimentão,cebola,azeitona preta,sal
+2,Sopa de pedra,feijao,bacon,linguiça,cebola,alho,louro,agua,batata,chouriço,cenoura,coentro,sal
+2,Sopa de grãos,feijao,agua,oleo,cebola,alho,grão de bico,lentilha,arroz,pimenta-do-reino,canela,sal
+2,Ensopado do sertão,costela bovina,sal,vinagre,oleo,cebola,alho,tomate,pimentão,agua,feijao,mandioca
+1,Falafel,grão de bico,cebola,alho,fermento,sal,cominho,páprica,coentro,pimenta,salsinha,farinha,oleo
+3,Farofa de feijao com bacon,azeite,bacon,alho,cebola,uva passa,castanha-de-caju,cenoura,sal,farinha de milho,manteiga
+3,Farofa de feijao-fradinho e carne-seca,feijao,agua,bacon,manteiga,cebola,alho,carne,farinha de milho,ovo,sal
+3,feijao carioca com cebola caramelada,manteiga,cebola,sal,feijao
+2,Torta de liquidificador de arroz e alho-poró,azeite,cebola,alho,sal,leite,oleo,ovo,arroz,amido de milho,fermento,queijo,tomate
+2,Torta de liquidificador de arroz,leite,oleo,ovo,arroz,sal,farinha,fermento,presunto,queijo,orégano
+2,Torta de arroz com peito de peru,leite,ovo,arroz,aveia,oleo,peru,queijo,cenoura,tomate,sal,pimenta-do-reino,salsinha
+1,Muffins de arroz com presunto e queijo,presunto,queijo,orégano,leite,oleo,ovo,arroz,sal,farinha,fermento,salsinha,manteiga
+1,Wrap de fradinho e carne seca,leite,ovo,farinha,sal,oleo,feijao,carne,queijo,iogurte,coentro,pimenta,alface
+2,Sopa de lentilha com batata cenoura e bacon,azeite,bacon,alho,cebola,lentilha,agua,louro,sal,batata,cenoura
+1,Pipoca com especiarias,oleo,milho,páprica doce,canela,sal,pimenta cayena
+1,Mini pizza com massa de grão de bico,grão de bico,agua,azeite,sal,fermento,farinha de aveia,amido de milho,molho de tomate,queijo mussarela,presunto,azeitona,orégano
+1,Mini pizzas de biscoitos de arroz,biscoito,molho de tomate,linguiça,cebola,requeijão,queijo provolone,queijo
+1,Torrãozinho de pipoca,milho,amendoim,oleo,açúcar,essência de baunilha
+4,Pirulito de pipoca para o halloween,oleo,milho,açúcar,agua,corante
+1,Pipoca tradicional,oleo,milho
+1,Pipoca vermelha,açúcar,agua,milho,oleo,corante,sal
+4,Pipoca com canela,agua,oleo,açúcar,milho,canela
+1,Pipoca aos 3 queijos,oleo,milho,queijo,sal
+1,Pipoca com bacon,oleo,bacon,milho,sal
+1,biscoito com pimenta e guacamole,abacate,biscoito,cebola,coentro,limão,sal
+1,Bolinho de arroz,arroz,queijo,coentro,cebolinha,fermento,farinha,ovo,sal,oleo
+1,Bolinho de arroz com espinafre,arroz,queijo,açafrão,espinafre,fermento,farinha,ovo,oleo
+1,Bolinho de arroz com tender,arroz,queijo,cebolinha,salsinha,fermento,farinha,tender,ovo,oleo
+1,Arancinis com sardinha,manteiga,cebola,arroz,vinho,sal,açafrão,caldo de legumes,queijo,salsinha,sardinha,ovo,farinha de rosca,oleo
+2,Risoto de bacalhau,manteiga,cebola,bacalhau,tomate,açafrão,arroz,vinho,caldo de legumes,cebolinha,salsinha
+2,Quiabada,quiabo,camarão,azeite,cebola,alho,feijao,agua,pimenta-do-reino,limão
+2,Arroz de moqueca baiana,azeite,cebola,alho,arroz,coco,agua,tomate,pimentão,peixe,sal,cebolinha,salsinha
+3,Arroz com salmão e alho-poró,agua,sal,arroz,azeite,salmão,alho-poró,ervilha
+3,Arroz com camarão e alhodourado,oleo,cebola,arroz,agua,sal,manteiga,azeite,camarão,alho,pimenta-do-reino,salsinha,cebolinha
+1,Pastel de carne,caldo de carne,agua,soja,oleo,cebola,alho,carne,azeitona,salsinha,cebolinha
+4,Arroz doce com chocolate e café,leite,açúcar,arroz,creme de leite,chocolate,café
+4,Arroz doce com baunilha e coco,arroz,agua,açúcar,coco,baunilha,raspas de limão
+4,Arroz doce,arroz,canela,agua,leite,leite condensado,raspas de limão
+4,Arroz de leite,agua,sal,raspas de limão,arroz,leite,açúcar,manteiga,ovo,canela
+4,Arroz doce com groselha e coco,leite,coco,xarope de groselha,arroz,sal
+4,Arroz doce perfumado servido com calda de rapadura,raspas de lim~ão,laranja,erva cidreira,agua,arroz,leite,açúcar,manteiga
+4,Arroz doce de chocolate,leite,canela,arroz,sal,leite condensado,chocolate
+4,Doce de arroz,arroz,agua,leite,leite em pó,açúcar
+4,Taça de arroz doce e chocolate,achocolatado em pó,açúcar,leite,manteiga,agua,canela,arroz
+2,Feijoada,carne,lombo de porco,costelinha de porco,rabo de porco,orelha de porco,feijao preto,agua,louro,laranja,bacon,linguiça,paio,cebola,alho,sal,pimenta-do-reino
+2,Nhoque de feijao branco com ragú de costelinha,feijao branco,agua,ovo,sal,farinha,azeite,costelinha de porco,tomate,extrato de tomate,salsiinha,cebolinha
+1,Chilli com carne prático,oleo,cebola,carne,tomate,extrato de tomate,pimenta,sal,feijao preto,coentro
+2,Pimentões recheados,pimentão,soja,agua,oleo,alho,cebola,tomate,carne,sal,extrato de tomate,salsinha,cebolinha,ervilha
+2,Filezinho com arroz cremoso,frango,sal,margarina,cebola,arroz,salsinha,pimenta-do-reino,limão,alho,vinho,caldo de legumes,reuqueijão,leite,alcachofra,manjericao
+2,frango com abacaxi,frango,sal,pimenta-do-reino,cebola,oleo,abacaxi,azeite,gengibre,molho shoyo,amido de milho,tangerina,cebolinha
+2,Escondidinho de hambúrguer,hambúrguer,batata doce,margarina,leite,tomate,queijo,sal,orégano
+2,Almôndegas no purê,almondega,batata,leite,margarina,molho de tomate,queijo,sal
+1,Croque monsieur com presunto,presunto,margarina,pão,cravo,louro,cebola,farinha,leite,ovo,pimenta-do-reino,queijo,noz-moscada,salsinha
+1,salada de lentilha grão de bico e espinafre,bacon,lentilha,grão de bico,espinafre,tomilho,vinagre,azeite,sal,pimenta-do-reino
+1,salada de soja com tomate seco,azeite,sal,vinagre,açúcar,soja,tomate seco,sálvia
+1,salada integral com aspargo brócolis vagem e rucula ao molho italiano,arroz,azeite,sal,agua,aspargo,brócolis,vagem,rucula,vinagre,mostarda,orégano,pimenta-do-reino
+2,Sopa creme de ervilha com bacon,azeite,bacon,caldo de legumes,agua,cebola,ervilha,sal
+2,Canja,frango,tomate,cebola,alho,cenoura,mandioca,agua,sal,arroz,azeite
+2,Sopa cremosa de feijao branco,azeite,linguiça,alho,cebola,batata,agua,sal,feijao branco
+2,Sopa de feijao branco com legumes e gengibre,feijao branco,agua,azeite,bacon,alho,cebola,tomate,batata,mandioca,cenoura,vagem,sal,gengibre
+2,Sopa de feijao com batata doce e alho-poró,feijao,oleo,alho-poró,alho,agua,batata doce,sal
+1,Brioches petisco,peru,fermento,leite,farinha,margarina,açúcar,sal,ovo,orégano
+2,Nhoque de mandioca com bacon,bacon,mandioca,margarina,cebola,queijo,coentro,farinha,ovo,agua,sal
+2,Filés de frango ao molho de laranja cenoura e gengibre,frango,laranja,margarina,farinha,gengibre,pimenta-do-reino,sal,cenoura
+2,Sobrecoxas ao parmesao,frango,farinha,sal,pimenta-do-reino,páprica,ovo,leite,farinha de rosca,queijo,salsinha,alecrim,margarina
+2,Sopa de ervilha e presunto,presunto,ervilha,alho,oleo,pimenta-do-reino,sal,caldo de legumes,cebola,louro
+2,Canelone de presunto,presunto,queijo,alho,margarina,massa,tomate,agua,pimenta-do-reino,sal
+3,Farofa de linguiça e cenoura,linguiça,margarina,cebola,cenoura,ameixa,farinha de milho,salsinha,cebolinha,sal,pimenta-do-reino
+2,Lasanha de berinjela e presunto,presunto,azeite,cebola,margarina,farinha,berinjela,manjericao,queijo,alho,alho-poró,tomate,sal,leitenoz-moscada
+2,Sobrecoxa de frango à parmegiana,frango,presunto,alho,tomate,queijo,orégano,pimenta-do-reino,sal
+1,salada de macarrao com presunto,presunto,macarrao,queijo,laranja,maionese,molho inglês,rucula,sal
+2,Pernil com batatas douradas,porco,margarina,vinho,batata,queijo,sal
+1,Espetinhos de linguiça e queijo coalho,linguiça,queijo coalho,mostarda,coentro
+2,Filezinho ao forno com abacaxi,frango,mel,margarina,farinha de rosca,sal,abacaxi
+1,salada de palmito com presunto tipo parma,presunto parma,manjericao,azeite,palmito,alface,vinagre,sal,pimenta-do-reino
+2,Torta de frango,frango,margarina,cebola,alho,farinha,ervilha,azeitona,queijo,requeijão,sal,pimenta-do-reino,ovo,salsinha,cebolinha
+1,Omelete de queijo com presunto,presunto,ovo,queijo,orégano,sal,pimenta-do-reino
+2,Torta cremosa de peru e maçã,peru,margarina,cebola,alho,requeijão,maçã,salsinha,cebolinha,ovo,sal,pimenta-do-reino,farinha
+3,feijao com bacon,bacon,feijao,louro,agua,alho,pimenta-do-reino,salsinha,cebolinha,sal
+1,salsicha à americana,salsicha,queijo,bacon
+2,Lombo recheado com farofa,lombo,bacon,margarina,alho,cebola,pimenta-do-reino,limão,tomate,ovo,farinha de milho,azeitona preta,salsinha,vinho,sal
+1,salada de macarrao,presunto,macarrao,tomate,azeitona,ervilha,maionese,azeite,salsinha,sal
+2,Torta de peru aberta,peru,margarina,conhaque,farinha,leite,queijo,sal,pimenta-do-reino,noz-moscada,cebolinha,ovo,agua
+3,Arroz à toscana,linguiça,arroz,oleo,agua,cenoura,salsinha,cebolinha,limão,sal,pimenta-do-reino,margarina
+3,macarrao na pressão,presunto,queijo,macarrao,creme de leite,molho de tomate,agua,manjericao
+1,salada completa,salame,ovo,tomate,milho verde,agriao,limão,azeite,sal,páprica,mel
+1,Brócolis e couve-flor salteados com bacon,bacon,cebola,alho,couve-flor,brócolis,amendoim,maçã,açafrão,sal
+1,Sanduíche de peito de peru,peito de peru,pão,queijo minas,geleia de framboesa
+1,Hambúrguer de peru mexicano,peru,pimenta,cominho,tomilho,páprica,queijo,oleo,abacate,tomate,cebola,limão,sal
+1,Lanche de peru louco com batatas rústicas,peru,oleo,açúcar,mel,mostarda,abacaxi,alface,pão,manteiga,azeite,batata,alecrim,páprica,sal,pimenta-do-reino,agua
+2,Peruada,peru,caldo de galinha,limão,azeite,cebola,arroz,extrato de tomate,pimentão,salsinha,agua,sal
+2,Frango à passarinho ao forno com orégano,frango,alho,azeite,orégano,pimenta-do-reino,sal,limão
+2,Risoto de frango,frango,cebola,azeite,arroz,pimentão,agua,sal,uva passa,milho verde,margarina,salsinha,cebolinha,queijo
+1,Crepioca de iogurte,frango,ovo,tapioca,sal,salsinha,iogurte,azeite,alface,cenoura,queijo
+1,Chicken lox,frango,creme de leite,limão,pão,cebola
+2,Coxinhas das asas de frango marinadas,frango,limão,vinho,louro,gengibre,tomilho,orégano,alecrim,margarina,sal,pimenta-do-reino
+2,Minitender à americana,tender,cravo,molho de tomate,margarina,farinha,sal,pimenta-do-reino
+2,Coxas de frango à moda caipira,frango,alho,cebola,agua,tomate,milho verde,salsinha,cebolinha,sal,limão
+2,Tiras de filé de frango gratinadas,frango,margarina,alho-poró,farinha,leite,queijo,sal
+2,Lombo assado,lombo,vinho,limão,cebola,cenoura,salsinha,salsão,sal,pimenta-do-reino
+2,Surpresa de calabresa com bacon ao forno,linguiça,bacon,margarina,batata,leite,creme de leite,cebola,milho verde,salsinha,cebolinha,sal,pimenta-do-reino
+2,Coxinha da asa empanada,frango,alho,queijo,ovo,farinha de rosca,limão,pimenta-do-reino,sal
+2,Frango na cerveja,frango,alho,sal,pimenta-do-reino,alecrim,louro,tomilho,cebolinha,cebola,cerveja
+4,Biscoitinhos de natal,açúcar,azeite,farinha
+4,Rabanada com canela,pão,ovo,leite,leite condensado,açúcar,canela,azeite
+4,Torta de ganache com frutas vermelhas,azeite,ovo,açúcar,farinha,cacau em pó,amendoa,essência de baunilha
+4,Peras douradas com azeite e mel,pera,mel,essência de baunilha,limão,azeite
+4,Torta rústica de limão,ovo,açúcar,castanha-do-pará,limão,açúcar,azeite
+4,Bolo de tapioca,tapioca,leite,ovo,açúcar,coco,azeite,essência de baunilha
+4,Gazpacho de frutas com chantilly de limão siciliano em infusão de jerez com hortelã,azeite,maçã,pera,pêssego,uva,açúcar,limão,creme de leite,hortelã,laranja,amido de milho
+4,Canjica cremosa,milho para canjica,leite condensado,agua,leite,canela,açúcar,amendoim,azeite
+1,Bolinho salgado de presunto,presunto,ovo,azeite,cebola,alho,queijo,salsinha,farinha,sal,leite,fermento
+1,salada fria de arroz com camarão e coentro,arroz,agua,sal,azeite,cebola,tomate,camarão,pimenta,coentro
+1,Mussarela recheada com parma,presunto parma,mussarela de bufala,azeite,mel,vinagre,manjericao,pimenta-do-reino
+2,Sopa de feijao batata abóbora e escarola,feijao,agua,louro,azeite,alho,cebola,sal,batata,abóbora,escarola
+1,Acarajé,feijao,cebola,sal,azeite
+2,Arroz de cabrito com abóbora e sementes,azeite,arroz,cebola,vinho,louro,agua,sal,carne,alho,tomate,pimenta-do-reino,cominho,extrato de tomate,vinagre,caldo de carne
+2,Bife da vazia café com batata frita,azeite,carne,manteiga,abobrinha,mostarda,alho,louro,vinho,pimenta-do-reino,sal,caldo de carne,café,batata,noz-moscada
+2,Nhoque ao molho vermelho,batata,azeite,sal,farinha,tomate,cebola,extrato de tomate,açúcar,salsinha
+2,Panqueca simples de frango,leite,farinha,azeite,ovo,sal,frango,requeijão
+2,Espaguete mediterrâneo,macarrao,cebola,alho,tomate-cereja,pimentão,azeite,manjericao,sal,pimenta-do-reino
+1,Pão de queijo de tapioca,azeite,tapioca,ovo,requeijão,sal
+2,Feijoada de frutos do mar,feijão,louro,camarão,lula,polvo,peixe,azeite,cebola,tomate,pimenta-do-reino,limão,sal
+1,Coquetel de camarão,azeite,camarão,limão,sal,pimenta-do-reino,maionese,creme de leite,molho inglês,conhaque
+2,Creme de abóbora assada,azeite,caldo de legumes,leite,pimenta-do-reino,sal,bacon,cebola,cebolinha,creme de leite
+1,Salmorejo com crisp de jamon,pao,alho,tomate,azeite,vinagre,sal,presunto cru,ovo
+2,Sopa de abóbora com gengibre,abóbora,gengibre,cebola,salsinha,cebolinha,alho,agua,pimenta-do-reino,sal,azeite
+1,Tortilla de batatas com cebola caramelizada,batata,azeite,cebola,queijo,sal,pimenta-do-reino,ovo
+2,Carne com Brócolis à Moda Oriental,azeite,carne,molho shoyo,brócolis,água,amido de milho,sal
+2,Costela Bovina Facílima na Pressão,carne,cebola,sal
+2,Frango Assado ao Lemon Peppper,frango,azeite,sal,lemon pepper,batata
+2,Frango Agridoce,oleo,frango,cebola,pimentão,molho shoyo,extrato de tomate,laranja,vinagre,açúcar,cebolinha
+2,Maminha Assada com Manteiga de Ervas,manteiga,alho,tomilho,orégano,manjericão,sal,pimenta-do-reino,carne,batata
+3,Batata Gratinada aos Três Queijos,queijo,creme de leite,batata,alho,sal,pimenta-do-reino
+1,Torta Bruschetta,pão,linguiça,cebola,tomate,orégano,queijo,ovo,leite,sal,pimenta-do-reino
+2,Lasanha de abobrinha,abobrinha,carne,cebola,alho,tomate,açúcar,sal,pimenta-do-reino,manjericão,queijo
